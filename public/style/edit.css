@@ -1,0 +1,42 @@
+form div,
+div.form {
+  padding-top: 0.5em;
+  padding-bottom: 0.1em;
+}
+
+div.form {
+  width: 100%;
+}
+
+form {
+  width: 45vw;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 3em;
+}
+
+label {
+  font-weight: bold;
+}
+
+#pharmacy-button {
+  background-color: rgb(0, 79, 0);
+  border-color: darkgreen;
+}
+
+#pharmacy-button:hover {
+  background-color: rgb(0, 53, 0);
+  border-color: darkgreen;
+}
+
+#navbar-button {
+  background-color: rgb(194, 218, 199);
+  border-color: rgb(174, 211, 169);
+  color: black;
+}
+
+#navbar-button:hover {
+  background-color: rgb(161, 0, 0);
+  border-color: rgb(128, 0, 0);
+  color: white;
+}

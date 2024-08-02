@@ -1,0 +1,41 @@
+.table-container {
+  width: 100%;
+}
+.table {
+  width: 95vw;
+  margin: auto;
+  text-align: center;
+}
+
+.red-background {
+  background-color: rgb(173, 0, 0);
+  color: white;
+}
+
+table#pharm-table,
+table#pharm-table th,
+table#pharm-table td {
+  border: 1px solid black;
+}
+
+#customer-button {
+  background-color: rgb(0, 79, 0);
+  border-color: darkgreen;
+}
+
+#customer-button:hover {
+  background-color: rgb(0, 53, 0);
+  border-color: darkgreen;
+}
+
+#navbar-button {
+  background-color: rgb(194, 218, 199);
+  border-color: rgb(174, 211, 169);
+  color: black;
+}
+
+#navbar-button:hover {
+  background-color: rgb(161, 0, 0);
+  border-color: rgb(128, 0, 0);
+  color: white;
+}
