@@ -1,2 +1,2 @@
 # PickupPharma
- Inventory Management System
+ Cloud-Based Inventory Management System
